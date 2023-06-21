@@ -1,0 +1,21 @@
+/* BASIC STYLES HERE */
+.bg-image {
+  background-image: url('https://images.unsplash.com/photo-1539622106114-e0df812097e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80');
+  background-position: center;
+  background-size: cover;
+}
+
+.not-selectable {
+  user-select: none;
+}
+
+.hand {
+  cursor: pointer;
+}
+
+.upgrade-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  object-position: center;
+}
